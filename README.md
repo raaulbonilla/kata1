@@ -18,6 +18,14 @@ Puedes ver el vídeo explicativo de la Kata 1 aquí:
 
 Duración: 5:06 min.
 
+## Práctica y verificación
+
+La kata se realizó varias veces para adquirir soltura con IntelliJ IDEA y el flujo de trabajo con Git.
+
+Durante la realización se practicaron shortcuts de ejecución, navegación, refactorización y depuración mediante breakpoints.
+
+Finalmente, se comprobó que el repositorio podía clonarse desde GitHub en una carpeta nueva y ejecutarse correctamente en IntelliJ IDEA.
+
 ## Git
 
 El desarrollo se realizó en la rama `develop` y posteriormente se integró en `main`.
